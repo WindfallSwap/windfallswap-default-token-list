@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wrapped Ether",
+    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
+  },
+  {
+    "name": "Windfall Swap",
+    "address": "0x4f3Ec89a44e8ec8D1Af0eecB774F37E8b79B69E6",
+    "symbol": "WFL",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  }
+]
